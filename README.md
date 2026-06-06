@@ -2,6 +2,8 @@
 
 An interactive, responsive single-page web application built with **React**, **TypeScript**, and **Vite** for the business simulation game **Capitalism 2**. It allows players to calculate manufacturing production capabilities based on raw materials and seaport imports, navigate recipe dependencies recursively, and identify missing goods.
 
+**🔗 Live Demo:** [https://thepeshmod.github.io/Cap2_manufacturing/](https://thepeshmod.github.io/Cap2_manufacturing/)
+
 ---
 
 ## 🎨 Features
