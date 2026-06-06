@@ -1,0 +1,129 @@
+﻿CLASS,CODE,NAME,SPENDING,FREIGHT,UNIT,DEMAND,LUXURY,NECESSITY,PRICE_CN,QUALITY_CN,BRAND_CN,BASE_QUAL,CANINV_YR,INVENT_YR,TECH_IMPT,IMPORT,PARENT1,PARENT1_ID,PARENT2,PARENT2_ID,CLASSID,SALEINDEX,UNITS
+APPAREL,JACKET,Leather Jacket,150,10,,0.15,7,3,30,35,35,0,,,,,,0,,0,1,22.5,
+APPAREL,JEAN,Jeans,50,10,pair,0.5,2,4,25,25,50,0,,,,,,0,,0,1,25,pairs
+APPAREL,SWEATER,Sweater,100,10,,0.5,2,4,30,30,40,0,,,,,,0,,0,1,50,
+AUTO,CAR,Car,20000,10,,0.005,8,2,30,35,35,0,,0,,N,,0,,0,2,100,
+AUTO,MOTORCYC,Motorcycle,10000,10,,0.002,7,2,30,35,35,0,,,,N,,0,,0,2,20,
+BATH_SUP,LOTION,Bath Lotion,4,30,,5,2,8,30,30,40,0,,,,,,0,,0,3,20,
+BATH_SUP,SHAMPOO,Shampoo,4,20,,6,1,8,30,30,40,0,,,,,,0,,0,3,24,
+BATH_SUP,SOAP,Soap,3,30,,6,1,9,25,25,50,0,,,,,,0,,0,3,18,
+BEVERAGE,B_MILK,Bottled Milk,2,70,,10,1,5,35,35,30,0,,,,,,0,,0,4,20,
+BEVERAGE,COLA,Cola,1,70,can,40,2,5,30,20,50,0,,,,,,0,,0,4,40,cans
+BEVERAGE,G_JUICE,Grape Juice,2,70,,10,2,5,30,30,40,0,,,,,,0,,0,4,20,
+BEVERAGE,WINE,Wine,20,30,,1,3,3,20,30,50,0,,,,,,0,,0,4,20,
+CHEMGOOD,DETERGEN,Detergent,4,25,,6,1,9,33,33,34,0,,,,,,0,,0,5,24,
+CHEMGOOD,TOOTHPAS,Toothpaste,3,20,,6,1,9,25,25,50,0,,,,,,0,,0,5,18,
+CHEMGOOD,T_CLEAN,Toilet Cleaner,6,30,,2,2,6,33,33,34,0,,,,,,0,,0,5,12,
+COMPUTER,COMPUTER,Desktop Computer,1200,10,,0.07,7,4,35,35,30,0,,,,N,,0,,0,6,84,
+COMPUTER,NOTEBOOK,Notebook Computer,1500,7,,0.05,8,2,35,35,30,,1990,10,,,,0,,0,6,75,
+COMPUTER,PDA,Palm Computer,800,5,,0.05,8,2,30,40,30,,1990,12,,,NOTEBOOK,17,,0,6,40,
+COMPUTER,PRINTER,Printer,400,5,,0.06,8,3,30,40,30,,0,0,,,,0,,0,6,24,
+COSMETIC,EYESHADO,Eye Shadow,30,4,,0.8,7,1,20,30,50,0,,,,,,0,,0,7,24,
+COSMETIC,H_COLOR,Hair Color,30,5,,0.4,7,1,20,30,50,0,,,,,,0,,0,7,12,
+COSMETIC,LIPSTICK,Lipstick,30,2,,0.9,7,1,20,30,50,0,,,,,,0,,0,7,27,
+COSMETIC,PERFUME,Perfume,40,5,,0.8,7,1,20,30,50,0,,,,,,0,,0,7,32,
+DESSERT,CAKES,Cakes,2,70,,10,2,5,35,35,30,0,,,,,,0,,0,8,20,
+DESSERT,ICECREAM,Ice Cream,1,50,,20,2,5,30,35,35,0,,,,,,0,,0,8,20,
+DESSERT,YOGURT,Yogurt,1.5,60,,20,2,5,30,35,35,0,,,,,,0,,0,8,30,
+DRUGS,COLD,Cold Tablets,10,2,,3,2,5,30,35,35,0,,,,,,0,,0,9,30,
+DRUGS,COUGH,Cough Syrup,10,2,,3,2,5,30,35,35,0,,,,,,0,,0,9,30,
+DRUGS,HEADACHE,Headache Pills,10,2,,3,2,5,30,35,35,0,,,,,,0,,0,9,30,
+ELAL_PRO,AIRCOND,Air Conditioner,400,15,,0.07,4,3,30,40,30,0,,,,,,0,,0,10,28,
+ELAL_PRO,HIFI,Hi-fi,300,10,,0.07,5,3,30,40,30,0,,,,,,0,,0,10,21,
+ELAL_PRO,MICROWAV,Microwave,200,10,,0.1,4,3,30,40,30,0,,,,,,0,,0,10,20,
+ELAL_PRO,TV,Television,400,15,,0.07,4,3,30,40,30,0,,,,,,0,,0,10,28,
+ELIC_PRO,DVD,DVD Player,400,7,,0.06,5,2,30,40,30,0,1990,12,,,,0,,0,11,24,
+ELIC_PRO,MOBILE,Mobile Phone,250,5,,0.08,4,4,30,40,30,0,1990,10,,,,0,,0,11,20,
+ELIC_PRO,VCAMERA,Video Camera,800,5,,0.03,8,1,30,40,30,0,1990,10,,,,0,,0,11,24,
+ELIC_PRO,VCR,Video Recorder,300,10,,0.07,5,3,30,40,30,0,,0,,,,0,,0,11,21,
+FOOD,BREAD,Bread,1.5,50,loaf,15,1,7,35,35,30,0,,,,,,0,,0,12,22.5,loaves
+FOOD,CAN_CORN,Canned Corn,3,70,,6,1,6,30,35,35,0,,,,,,0,,0,12,18,
+FOOD,CAN_SOUP,Canned Soup,3,70,,6,1,6,30,35,35,0,,,,,,0,,0,12,18,
+FOOD,CORN_FLK,Corn Flakes,1,50,,10,1,7,35,35,30,0,,,,,,0,,0,12,10,
+FOOTWEAR,SANDALS,Sandals,15,40,pair,0.75,3,4,35,35,30,0,,,,,,0,,0,13,11.25,
+FOOTWEAR,SHOE,Shoes,80,20,pair,0.3,2,4,30,30,40,0,,,,,,0,,0,13,24,
+FOOTWEAR,SOCKS,Socks,10,10,pair,2.5,3,4,35,35,30,0,,,,,,0,,0,13,25,
+FOOTWEAR,S_SHOE,Sport Shoes,80,20,pair,0.25,3,4,30,30,40,0,,,,,,0,,0,13,20,
+FURN,BED,Bed,350,40,,0.08,3,6,35,40,25,0,,,,,,0,,0,14,28,
+FURN,CHAIR,Chair,150,40,,0.1,3,6,35,40,25,0,,,,,,0,,0,14,15,
+FURN,SOFA,Sofa,400,40,,0.07,4,5,35,40,25,0,,,,,,0,,0,14,28,
+JEWELRY,NECKLACE,Silver Necklace,150,1,,0.05,9,1,45,45,10,0,,,,,,0,,0,15,7.5,
+JEWELRY,RING,Gold Ring,500,1,,0.05,9,1,45,45,10,0,,,,,,0,,0,15,25,
+LEATHER,BAG,Leather Bag,300,10,,0.06,7,4,30,35,35,0,,,,,,0,,0,16,18,
+LEATHER,BELT,Leather Belt,200,10,,0.08,7,4,30,35,35,0,,,,,,0,,0,16,16,
+LEATHER,BRFCASE,Leather Briefcase,400,10,,0.05,7,4,30,35,35,0,,,,,,0,,0,16,20,
+LEATHER,WALLET,Leather Wallet,200,10,,0.12,7,4,30,35,35,0,,,,,,0,,0,16,24,
+LPRODUCT,EGG,Eggs,2,60,dozen,3.5,1,6,45,45,10,0,,,,,,0,,0,17,7,
+LPRODUCT,MCATTLE,Frozen Beef,3,40,lb,5,1,6,45,45,10,0,,,,,,0,,0,17,15,lbs
+LPRODUCT,MCHICKEN,Frozen Chicken,3,40,lb,5,1,6,45,45,10,0,,,,,,0,,0,17,15,lbs
+LPRODUCT,MPIG,Frozen Pork,3,40,lb,3.5,1,6,45,45,10,0,,,,,,0,,0,17,10.5,lbs
+LPRODUCT,MSHEEP,Frozen Lamb,3,40,lb,1,1,6,45,45,10,0,,,,,,0,,0,17,3,lbs
+LSEMI,LEATHER,Leather,10,30,lb,0,0,6,45,45,10,0,,,,,,0,,0,18,0,lbs
+LSEMI,MILK,Milk,1,60,quart,0,1,6,45,45,10,0,,,,,,0,,0,18,0,quarts
+LSEMI,WOOL,Wool,20,30,lb,0,0,6,45,45,10,0,,,,,,0,,0,18,0,lbs
+LSTOCK,CATTLE,Cattle,500,5,,0,0,6,45,45,10,0,,,,,,0,,0,19,0,
+LSTOCK,CHICKEN,Chicken,5,5,,0,0,6,45,45,10,0,,,,,,0,,0,19,0,
+LSTOCK,PIG,Pig,150,5,,0,0,6,45,45,10,0,,,,,,0,,0,19,0,
+LSTOCK,SHEEP,Sheep,150,5,,0,0,6,45,45,10,0,,,,,,0,,0,19,0,
+PHOTO,CAMERA,Camera,150,5,,0.2,4,3,30,40,30,0,,,,,,0,,0,20,30,
+PHOTO,FILM,Camera Film,20,5,,2,4,3,30,30,40,0,,,,,,0,,0,20,40,
+PLANT,FLAX,Flax,1,5,lb,0,0,3,30,40,30,,,,,,,0,,0,21,0,lbs
+PLANT,RUBBER_P,Rubber Plant,1,5,lb,0,0,3,30,40,30,0,,,,,,0,,0,21,0,lbs
+PLANT,STRAWBEY,Strawberry,1,5,lb,0,1,3,30,40,30,0,,,,,,0,,0,21,0,lbs
+PLANT,SUGARCAN,Sugar Cane,1,5,lb,0,1,3,30,40,30,0,,,,,,0,,0,21,0,lbs
+PSEMI,BARLEY,Barley,1,70,lb,0,0,3,30,40,30,0,,,,,,0,,0,22,0,lbs
+PSEMI,COCOA,Cocoa,1,70,lb,0,0,3,30,30,40,0,,,,,,0,,0,22,0,lbs
+PSEMI,COCO_NUT,Coconut,1,30,lb,0,0,3,30,30,40,0,,,,,,0,,0,22,0,lbs
+PSEMI,CORN,Corn,1,30,lb,0,0,3,30,30,40,0,,,,,,0,,0,22,0,lbs
+PSEMI,COTTON,Cotton,10,30,lb,0,0,3,30,30,40,0,,,,,,0,,0,22,0,lbs
+PSEMI,FLAXFIBR,Flax Fiber,1,30,lb,0,0,3,30,30,40,0,,,,,,0,,0,22,0,lbs
+PSEMI,GRAPE,Grapes,2,50,lb,0,1,5,45,45,10,0,,,,,,0,,0,22,0,lbs
+PSEMI,LEMON,Lemon,1,30,lb,0,0,3,30,30,40,0,,,,,,0,,0,22,0,lbs
+PSEMI,RUBBER,Rubber,1,70,lb,0,0,3,30,30,40,0,,,,,,0,,0,22,0,lbs
+PSEMI,SUGAR,Sugar,1,60,lb,0,1,3,30,30,40,0,,,,,,0,,0,22,0,lbs
+PSEMI,TOBACCO,Tobacco,1.4,60,lb,0,0,3,30,30,40,0,,,,,,0,,0,22,0,lbs
+PSEMI,WHEAT,Wheat,1,70,lb,0,0,3,30,30,40,0,,,,,,0,,0,22,0,lbs
+RAW,ALUMINIU,Aluminum,1.3,80,lb,0,0,3,30,30,40,0,,,,,,0,,0,23,0,lbs
+RAW,CHEMICAL,Chemical Minerals,2,50,lb,0,0,3,30,30,40,0,,,,,,0,,0,23,0,lbs
+RAW,COAL,Coal,0.2,100,lb,0,0,3,30,30,40,0,,,,,,0,,0,23,0,lbs
+RAW,GOLD,Gold,300,10,oz,0,0,3,30,30,40,0,,,,,,0,,0,23,0,oz
+RAW,IRON,Iron Ore,0.3,100,lb,0,0,3,30,30,40,0,,,,,,0,,0,23,0,lbs
+RAW,OIL,Oil,20,80,barrel,0,0,3,30,30,40,0,,,,,,0,,0,23,0,barrels
+RAW,SILICA,Silica,0.2,80,lb,0,0,3,30,30,40,0,,,,,,0,,0,23,0,lbs
+RAW,SILVER,Silver,1,50,oz,0,0,3,30,30,40,,,,,,,0,,0,23,0,oz
+RAW,SULFUR,Sulfur,1,50,lb,0,0,3,30,30,40,,,,,,,0,,0,23,0,lbs
+RAW,TIMBER,Timber,0.2,100,lb,0,0,3,30,30,40,0,,,,,,0,,0,23,0,lbs
+SEMI,ACID,Citric Acid,1,30,lb,0,1,1,33,33,34,,,,,,,0,,0,24,0,lbs
+SEMI,CARBODY,Car Body,5000,50,,0,0,3,30,30,40,0,,,5,,,0,,0,24,0,
+SEMI,COCO_OIL,Coconut Oil,1,30,,0,1,7,35,35,30,0,,,,,,0,,0,24,0,
+SEMI,CORNSYRP,Corn Syrup,1,30,lb,0,1,7,35,35,30,0,,,,,,0,,0,24,0,lbs
+SEMI,CPU,CPU,200,1,,0,0,3,30,30,40,0,,,6,,,0,,0,24,0,
+SEMI,DYESTUFF,Dyestuff,1,30,lb,0,1,1,33,33,34,,,,,,,0,,0,24,0,lbs
+SEMI,ELECOMP,Electronic Components,10,5,lb,0,0,3,30,30,40,0,,,4,,,0,,0,24,0,lbs
+SEMI,ENGINE,Engine,3000,40,,0,0,3,30,30,40,0,,,6,,,0,,0,24,0,
+SEMI,FLOUR,Flour,0.5,70,lb,0,1,3,30,30,40,0,,,6,,,0,,0,24,0,lbs
+SEMI,GLASS,Glass,1,90,lb,0,0,3,30,30,40,0,,,0,,,0,,0,24,0,lbs
+SEMI,LINEN,Linen,1,30,lb,0,0,3,30,30,40,,,,2,,,0,,0,24,0,lbs
+SEMI,PAPER,Paper,1,90,lb,0,0,3,30,30,40,0,,,0,,,0,,0,24,0,lbs
+SEMI,PLASTIC,Plastic,1,90,lb,0,0,3,30,30,40,0,,,0,,,0,,0,24,0,lbs
+SEMI,POLYESTE,Polyester,1,30,lb,0,0,3,30,30,40,,,,2,,,0,,0,24,0,lbs
+SEMI,SILICON,Silicon,1,30,lb,0,0,3,30,30,40,0,,,0,,,0,,0,24,0,lbs
+SEMI,STEEL,Steel,1,100,lb,0,0,3,30,30,40,0,,,3,,,0,,0,24,0,lbs
+SEMI,TEXTILE,Textiles,10,60,lb,0,0,3,30,30,40,0,,,6,,,0,,0,24,0,lbs
+SEMI,WGERMOIL,Wheat Germ Oil,1,30,,0,1,7,35,35,30,0,,,,,,0,,0,24,0,
+SEMI,WHEEL,Wheel & Tire,1000,40,,0,0,3,30,30,40,0,,,5,,,0,,0,24,0,
+SNACKS,CHOCOLAT,Chocolate Bar,1.5,20,,12,1,5,30,35,35,0,,,,,,0,,0,25,18,
+SNACKS,COOKIE,Cookies,4,30,,4.5,1,5,30,35,35,0,,,,,,0,,0,25,18,
+SNACKS,FRUIT_S,Fruit Snacks,1,20,,13,1,5,30,35,35,0,,,,,,0,,0,25,13,
+SNACKS,GUM,Chewing Gum,1,30,,18,1,4,30,35,35,0,,,,,,0,,0,25,18,
+SPORT_EQ,BACKPACK,Back Pack,40,20,,0.3,3,4,35,30,35,0,,,,,,0,,0,26,12,
+SPORT_EQ,GOLFCLUB,Golf Clubs,200,20,,0.07,8,2,30,40,30,0,,,,,,0,,0,26,14,
+SPORT_EQ,SKATES,In-line Skates,100,20,pair,0.12,5,2,35,35,30,0,1990,5,,,,0,,0,26,12,
+TOBACCO,CIGARET,Cigarettes,4,10,pack,8,5,4,25,15,60,0,,,,,,0,,0,27,32,packs
+TOBACCO,CIGARS,Cigars,200,20,box,0.06,9,2,25,40,35,0,,,,,,0,,0,27,12,boxes
+TOY,HANDH_G,Hand-held Game Device,100,10,,0.2,5,2,35,40,25,0,1990,10,,,,0,,0,28,20,
+TOY,TOY_CAR,Toy Racing Car,50,20,,0.2,4,2,35,40,25,0,,,,,,0,,0,28,10,
+TOY,TOY_DOLL,Toy Doll,30,15,,0.5,3,2,35,40,25,0,,,,,,0,,0,28,15,
+TOY,VIDEO_G,Video Game Console,300,10,,0.1,6,2,35,40,25,0,1990,10,,,,0,,0,28,30,
+WATCH,E_WATCH,Elegant Watch,100,2,,0.3,4,4,25,35,40,0,,,,,,0,,0,30,30,
+WATCH,S_WATCH,Sports Watch,70,2,,0.3,3,4,30,35,35,0,,,,,,0,,0,30,21,
